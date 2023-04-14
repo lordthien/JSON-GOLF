@@ -1,0 +1,986 @@
+{
+  "error_code": 0,
+  "data": [
+    {
+      "id": 2150,
+      "user_id": 2150,
+      "amount": 1000000,
+      "text_pay": "500k",
+      "can_booking": 1,
+      "is_hold": 0,
+      "hold_by_user_id": null,
+      "change_by_vga": null,
+      "time_hold": null,
+      "owned_by_user_id": null,
+      "amount_not_discount": null,
+      "amount_sale": 0,
+      "is_sale": 1,
+      "is_sale_emb_50k": 1,
+      "loai_ma": null,
+      "is_sale_NAB": 1,
+      "is_hide_number": 0,
+      "is_main": 0,
+      "is_default_number": 0,
+      "is_number_debt": 0,
+      "is_active_vphone": 1,
+      "can_payment": 1,
+      "refun": {
+        "vbank": "",
+        "point": "",
+        "bank": ""
+      },
+      "refun_debt": {
+        "vbank": "Hoàn tiền theo quy định mua trả góp",
+        "point": "",
+        "bank": ""
+      },
+      "allow_debt": 0,
+      "text_debt": "",
+      "text_promotion": "",
+      "debt": {
+        "6": 300000,
+        "12": 300000,
+        "24": 300000
+      },
+      "debts": [
+        {
+          "month": 6,
+          "money": 300000,
+          "text": "Trả lần đầu: 300,000 VNĐ - Các tháng còn lại: 117,000 VNĐ/6 tháng"
+        }
+      ]
+    },
+    {
+      "id": 2154,
+      "user_id": 2154,
+      "amount": 1000000,
+      "text_pay": "500k",
+      "can_booking": 1,
+      "is_hold": 0,
+      "hold_by_user_id": null,
+      "change_by_vga": null,
+      "time_hold": null,
+      "owned_by_user_id": null,
+      "amount_not_discount": null,
+      "amount_sale": 0,
+      "is_sale": 1,
+      "is_sale_emb_50k": 1,
+      "loai_ma": null,
+      "is_sale_NAB": 1,
+      "is_hide_number": 0,
+      "is_main": 0,
+      "is_default_number": 0,
+      "is_number_debt": 0,
+      "is_active_vphone": 1,
+      "can_payment": 1,
+      "refun": {
+        "vbank": "",
+        "point": "",
+        "bank": ""
+      },
+      "refun_debt": {
+        "vbank": "Hoàn tiền theo quy định mua trả góp",
+        "point": "",
+        "bank": ""
+      },
+      "allow_debt": 0,
+      "text_debt": "",
+      "text_promotion": "",
+      "debt": {
+        "6": 300000,
+        "12": 300000,
+        "24": 300000
+      },
+      "debts": [
+        {
+          "month": 6,
+          "money": 300000,
+          "text": "Trả lần đầu: 300,000 VNĐ - Các tháng còn lại: 117,000 VNĐ/6 tháng"
+        }
+      ]
+    },
+    {
+      "id": 2157,
+      "user_id": 2157,
+      "amount": 1000000,
+      "text_pay": "500k",
+      "can_booking": 1,
+      "is_hold": 0,
+      "hold_by_user_id": null,
+      "change_by_vga": null,
+      "time_hold": null,
+      "owned_by_user_id": null,
+      "amount_not_discount": null,
+      "amount_sale": 0,
+      "is_sale": 1,
+      "is_sale_emb_50k": 1,
+      "loai_ma": null,
+      "is_sale_NAB": 1,
+      "is_hide_number": 0,
+      "is_main": 0,
+      "is_default_number": 0,
+      "is_number_debt": 0,
+      "is_active_vphone": 1,
+      "can_payment": 1,
+      "refun": {
+        "vbank": "",
+        "point": "",
+        "bank": ""
+      },
+      "refun_debt": {
+        "vbank": "Hoàn tiền theo quy định mua trả góp",
+        "point": "",
+        "bank": ""
+      },
+      "allow_debt": 0,
+      "text_debt": "",
+      "text_promotion": "",
+      "debt": {
+        "6": 300000,
+        "12": 300000,
+        "24": 300000
+      },
+      "debts": [
+        {
+          "month": 6,
+          "money": 300000,
+          "text": "Trả lần đầu: 300,000 VNĐ - Các tháng còn lại: 117,000 VNĐ/6 tháng"
+        }
+      ]
+    },
+    {
+      "id": 2160,
+      "user_id": 2160,
+      "amount": 1000000,
+      "text_pay": "500k",
+      "can_booking": 1,
+      "is_hold": 0,
+      "hold_by_user_id": null,
+      "change_by_vga": null,
+      "time_hold": null,
+      "owned_by_user_id": null,
+      "amount_not_discount": null,
+      "amount_sale": 0,
+      "is_sale": 1,
+      "is_sale_emb_50k": 1,
+      "loai_ma": null,
+      "is_sale_NAB": 1,
+      "is_hide_number": 0,
+      "is_main": 0,
+      "is_default_number": 0,
+      "is_number_debt": 0,
+      "is_active_vphone": 1,
+      "can_payment": 1,
+      "refun": {
+        "vbank": "",
+        "point": "",
+        "bank": ""
+      },
+      "refun_debt": {
+        "vbank": "Hoàn tiền theo quy định mua trả góp",
+        "point": "",
+        "bank": ""
+      },
+      "allow_debt": 0,
+      "text_debt": "",
+      "text_promotion": "",
+      "debt": {
+        "6": 300000,
+        "12": 300000,
+        "24": 300000
+      },
+      "debts": [
+        {
+          "month": 6,
+          "money": 300000,
+          "text": "Trả lần đầu: 300,000 VNĐ - Các tháng còn lại: 117,000 VNĐ/6 tháng"
+        }
+      ]
+    },
+    {
+      "id": 2170,
+      "user_id": 2170,
+      "amount": 1000000,
+      "text_pay": "500k",
+      "can_booking": 1,
+      "is_hold": 0,
+      "hold_by_user_id": null,
+      "change_by_vga": null,
+      "time_hold": null,
+      "owned_by_user_id": null,
+      "amount_not_discount": null,
+      "amount_sale": 0,
+      "is_sale": 1,
+      "is_sale_emb_50k": 1,
+      "loai_ma": null,
+      "is_sale_NAB": 1,
+      "is_hide_number": 0,
+      "is_main": 0,
+      "is_default_number": 0,
+      "is_number_debt": 0,
+      "is_active_vphone": 1,
+      "can_payment": 1,
+      "refun": {
+        "vbank": "",
+        "point": "",
+        "bank": ""
+      },
+      "refun_debt": {
+        "vbank": "Hoàn tiền theo quy định mua trả góp",
+        "point": "",
+        "bank": ""
+      },
+      "allow_debt": 0,
+      "text_debt": "",
+      "text_promotion": "",
+      "debt": {
+        "6": 300000,
+        "12": 300000,
+        "24": 300000
+      },
+      "debts": [
+        {
+          "month": 6,
+          "money": 300000,
+          "text": "Trả lần đầu: 300,000 VNĐ - Các tháng còn lại: 117,000 VNĐ/6 tháng"
+        }
+      ]
+    },
+    {
+      "id": 2173,
+      "user_id": 2173,
+      "amount": 1000000,
+      "text_pay": "500k",
+      "can_booking": 1,
+      "is_hold": 0,
+      "hold_by_user_id": null,
+      "change_by_vga": null,
+      "time_hold": null,
+      "owned_by_user_id": null,
+      "amount_not_discount": null,
+      "amount_sale": 0,
+      "is_sale": 1,
+      "is_sale_emb_50k": 1,
+      "loai_ma": null,
+      "is_sale_NAB": 1,
+      "is_hide_number": 0,
+      "is_main": 0,
+      "is_default_number": 0,
+      "is_number_debt": 0,
+      "is_active_vphone": 1,
+      "can_payment": 1,
+      "refun": {
+        "vbank": "",
+        "point": "",
+        "bank": ""
+      },
+      "refun_debt": {
+        "vbank": "Hoàn tiền theo quy định mua trả góp",
+        "point": "",
+        "bank": ""
+      },
+      "allow_debt": 0,
+      "text_debt": "",
+      "text_promotion": "",
+      "debt": {
+        "6": 300000,
+        "12": 300000,
+        "24": 300000
+      },
+      "debts": [
+        {
+          "month": 6,
+          "money": 300000,
+          "text": "Trả lần đầu: 300,000 VNĐ - Các tháng còn lại: 117,000 VNĐ/6 tháng"
+        }
+      ]
+    },
+    {
+      "id": 2174,
+      "user_id": 2174,
+      "amount": 1000000,
+      "text_pay": "500k",
+      "can_booking": 1,
+      "is_hold": 0,
+      "hold_by_user_id": null,
+      "change_by_vga": null,
+      "time_hold": null,
+      "owned_by_user_id": null,
+      "amount_not_discount": null,
+      "amount_sale": 0,
+      "is_sale": 1,
+      "is_sale_emb_50k": 1,
+      "loai_ma": null,
+      "is_sale_NAB": 1,
+      "is_hide_number": 0,
+      "is_main": 0,
+      "is_default_number": 0,
+      "is_number_debt": 0,
+      "is_active_vphone": 1,
+      "can_payment": 1,
+      "refun": {
+        "vbank": "",
+        "point": "",
+        "bank": ""
+      },
+      "refun_debt": {
+        "vbank": "Hoàn tiền theo quy định mua trả góp",
+        "point": "",
+        "bank": ""
+      },
+      "allow_debt": 0,
+      "text_debt": "",
+      "text_promotion": "",
+      "debt": {
+        "6": 300000,
+        "12": 300000,
+        "24": 300000
+      },
+      "debts": [
+        {
+          "month": 6,
+          "money": 300000,
+          "text": "Trả lần đầu: 300,000 VNĐ - Các tháng còn lại: 117,000 VNĐ/6 tháng"
+        }
+      ]
+    },
+    {
+      "id": 2180,
+      "user_id": 2180,
+      "amount": 1000000,
+      "text_pay": "500k",
+      "can_booking": 1,
+      "is_hold": 0,
+      "hold_by_user_id": null,
+      "change_by_vga": null,
+      "time_hold": null,
+      "owned_by_user_id": null,
+      "amount_not_discount": null,
+      "amount_sale": 0,
+      "is_sale": 1,
+      "is_sale_emb_50k": 1,
+      "loai_ma": null,
+      "is_sale_NAB": 1,
+      "is_hide_number": 0,
+      "is_main": 0,
+      "is_default_number": 0,
+      "is_number_debt": 0,
+      "is_active_vphone": 1,
+      "can_payment": 1,
+      "refun": {
+        "vbank": "",
+        "point": "",
+        "bank": ""
+      },
+      "refun_debt": {
+        "vbank": "Hoàn tiền theo quy định mua trả góp",
+        "point": "",
+        "bank": ""
+      },
+      "allow_debt": 0,
+      "text_debt": "",
+      "text_promotion": "",
+      "debt": {
+        "6": 300000,
+        "12": 300000,
+        "24": 300000
+      },
+      "debts": [
+        {
+          "month": 6,
+          "money": 300000,
+          "text": "Trả lần đầu: 300,000 VNĐ - Các tháng còn lại: 117,000 VNĐ/6 tháng"
+        }
+      ]
+    },
+    {
+      "id": 2194,
+      "user_id": 2194,
+      "amount": 1000000,
+      "text_pay": "500k",
+      "can_booking": 1,
+      "is_hold": 0,
+      "hold_by_user_id": null,
+      "change_by_vga": null,
+      "time_hold": null,
+      "owned_by_user_id": null,
+      "amount_not_discount": null,
+      "amount_sale": 0,
+      "is_sale": 1,
+      "is_sale_emb_50k": 1,
+      "loai_ma": null,
+      "is_sale_NAB": 1,
+      "is_hide_number": 0,
+      "is_main": 0,
+      "is_default_number": 0,
+      "is_number_debt": 0,
+      "is_active_vphone": 1,
+      "can_payment": 1,
+      "refun": {
+        "vbank": "",
+        "point": "",
+        "bank": ""
+      },
+      "refun_debt": {
+        "vbank": "Hoàn tiền theo quy định mua trả góp",
+        "point": "",
+        "bank": ""
+      },
+      "allow_debt": 0,
+      "text_debt": "",
+      "text_promotion": "",
+      "debt": {
+        "6": 300000,
+        "12": 300000,
+        "24": 300000
+      },
+      "debts": [
+        {
+          "month": 6,
+          "money": 300000,
+          "text": "Trả lần đầu: 300,000 VNĐ - Các tháng còn lại: 117,000 VNĐ/6 tháng"
+        }
+      ]
+    },
+    {
+      "id": 2214,
+      "user_id": 2214,
+      "amount": 1000000,
+      "text_pay": "500k",
+      "can_booking": 1,
+      "is_hold": 0,
+      "hold_by_user_id": null,
+      "change_by_vga": null,
+      "time_hold": null,
+      "owned_by_user_id": null,
+      "amount_not_discount": null,
+      "amount_sale": 0,
+      "is_sale": 1,
+      "is_sale_emb_50k": 1,
+      "loai_ma": null,
+      "is_sale_NAB": 1,
+      "is_hide_number": 0,
+      "is_main": 0,
+      "is_default_number": 0,
+      "is_number_debt": 0,
+      "is_active_vphone": 1,
+      "can_payment": 1,
+      "refun": {
+        "vbank": "",
+        "point": "",
+        "bank": ""
+      },
+      "refun_debt": {
+        "vbank": "Hoàn tiền theo quy định mua trả góp",
+        "point": "",
+        "bank": ""
+      },
+      "allow_debt": 0,
+      "text_debt": "",
+      "text_promotion": "",
+      "debt": {
+        "6": 300000,
+        "12": 300000,
+        "24": 300000
+      },
+      "debts": [
+        {
+          "month": 6,
+          "money": 300000,
+          "text": "Trả lần đầu: 300,000 VNĐ - Các tháng còn lại: 117,000 VNĐ/6 tháng"
+        }
+      ]
+    },
+    {
+      "id": 2240,
+      "user_id": 2240,
+      "amount": 1000000,
+      "text_pay": "500k",
+      "can_booking": 1,
+      "is_hold": 0,
+      "hold_by_user_id": null,
+      "change_by_vga": null,
+      "time_hold": null,
+      "owned_by_user_id": null,
+      "amount_not_discount": null,
+      "amount_sale": 0,
+      "is_sale": 1,
+      "is_sale_emb_50k": 1,
+      "loai_ma": null,
+      "is_sale_NAB": 1,
+      "is_hide_number": 0,
+      "is_main": 0,
+      "is_default_number": 0,
+      "is_number_debt": 0,
+      "is_active_vphone": 1,
+      "can_payment": 1,
+      "refun": {
+        "vbank": "",
+        "point": "",
+        "bank": ""
+      },
+      "refun_debt": {
+        "vbank": "Hoàn tiền theo quy định mua trả góp",
+        "point": "",
+        "bank": ""
+      },
+      "allow_debt": 0,
+      "text_debt": "",
+      "text_promotion": "",
+      "debt": {
+        "6": 300000,
+        "12": 300000,
+        "24": 300000
+      },
+      "debts": [
+        {
+          "month": 6,
+          "money": 300000,
+          "text": "Trả lần đầu: 300,000 VNĐ - Các tháng còn lại: 117,000 VNĐ/6 tháng"
+        }
+      ]
+    },
+    {
+      "id": 2242,
+      "user_id": 2242,
+      "amount": 2000000,
+      "text_pay": "1 trieu",
+      "can_booking": 1,
+      "is_hold": 1,
+      "hold_by_user_id": -1,
+      "change_by_vga": null,
+      "time_hold": "21:44:27,19-08-2022",
+      "owned_by_user_id": null,
+      "amount_not_discount": null,
+      "amount_sale": 0,
+      "is_sale": 1,
+      "is_sale_emb_50k": 1,
+      "loai_ma": null,
+      "is_sale_NAB": 1,
+      "is_hide_number": 0,
+      "is_main": 0,
+      "is_default_number": 0,
+      "is_number_debt": 0,
+      "is_active_vphone": 1,
+      "can_payment": 1,
+      "refun": {
+        "vbank": "",
+        "point": "",
+        "bank": ""
+      },
+      "refun_debt": {
+        "vbank": "Hoàn tiền theo quy định mua trả góp",
+        "point": "",
+        "bank": ""
+      },
+      "allow_debt": 0,
+      "text_debt": "",
+      "text_promotion": "",
+      "debt": {
+        "6": 600000,
+        "12": 600000,
+        "24": 600000
+      },
+      "debts": [
+        {
+          "month": 6,
+          "money": 600000,
+          "text": "Trả lần đầu: 600,000 VNĐ - Các tháng còn lại: 234,000 VNĐ/6 tháng"
+        }
+      ]
+    },
+    {
+      "id": 2249,
+      "user_id": 2249,
+      "amount": 1000000,
+      "text_pay": "500k",
+      "can_booking": 1,
+      "is_hold": 0,
+      "hold_by_user_id": null,
+      "change_by_vga": null,
+      "time_hold": null,
+      "owned_by_user_id": null,
+      "amount_not_discount": null,
+      "amount_sale": 0,
+      "is_sale": 1,
+      "is_sale_emb_50k": 1,
+      "loai_ma": null,
+      "is_sale_NAB": 1,
+      "is_hide_number": 0,
+      "is_main": 0,
+      "is_default_number": 0,
+      "is_number_debt": 0,
+      "is_active_vphone": 1,
+      "can_payment": 1,
+      "refun": {
+        "vbank": "",
+        "point": "",
+        "bank": ""
+      },
+      "refun_debt": {
+        "vbank": "Hoàn tiền theo quy định mua trả góp",
+        "point": "",
+        "bank": ""
+      },
+      "allow_debt": 0,
+      "text_debt": "",
+      "text_promotion": "",
+      "debt": {
+        "6": 300000,
+        "12": 300000,
+        "24": 300000
+      },
+      "debts": [
+        {
+          "month": 6,
+          "money": 300000,
+          "text": "Trả lần đầu: 300,000 VNĐ - Các tháng còn lại: 117,000 VNĐ/6 tháng"
+        }
+      ]
+    },
+    {
+      "id": 2251,
+      "user_id": 2251,
+      "amount": 1000000,
+      "text_pay": "500k",
+      "can_booking": 1,
+      "is_hold": 0,
+      "hold_by_user_id": null,
+      "change_by_vga": null,
+      "time_hold": null,
+      "owned_by_user_id": null,
+      "amount_not_discount": null,
+      "amount_sale": 0,
+      "is_sale": 1,
+      "is_sale_emb_50k": 1,
+      "loai_ma": null,
+      "is_sale_NAB": 0,
+      "is_hide_number": 0,
+      "is_main": 0,
+      "is_default_number": 0,
+      "is_number_debt": 0,
+      "is_active_vphone": 1,
+      "can_payment": 1,
+      "refun": {
+        "vbank": "",
+        "point": "",
+        "bank": ""
+      },
+      "refun_debt": {
+        "vbank": "Hoàn tiền theo quy định mua trả góp",
+        "point": "",
+        "bank": ""
+      },
+      "allow_debt": 0,
+      "text_debt": "",
+      "text_promotion": "",
+      "debt": {
+        "6": 300000,
+        "12": 300000,
+        "24": 300000
+      },
+      "debts": [
+        {
+          "month": 6,
+          "money": 300000,
+          "text": "Trả lần đầu: 300,000 VNĐ - Các tháng còn lại: 117,000 VNĐ/6 tháng"
+        }
+      ]
+    },
+    {
+      "id": 2253,
+      "user_id": 2253,
+      "amount": 1000000,
+      "text_pay": "500k",
+      "can_booking": 1,
+      "is_hold": 0,
+      "hold_by_user_id": null,
+      "change_by_vga": null,
+      "time_hold": null,
+      "owned_by_user_id": null,
+      "amount_not_discount": null,
+      "amount_sale": 0,
+      "is_sale": 1,
+      "is_sale_emb_50k": 1,
+      "loai_ma": null,
+      "is_sale_NAB": 1,
+      "is_hide_number": 0,
+      "is_main": 0,
+      "is_default_number": 0,
+      "is_number_debt": 0,
+      "is_active_vphone": 1,
+      "can_payment": 1,
+      "refun": {
+        "vbank": "",
+        "point": "",
+        "bank": ""
+      },
+      "refun_debt": {
+        "vbank": "Hoàn tiền theo quy định mua trả góp",
+        "point": "",
+        "bank": ""
+      },
+      "allow_debt": 0,
+      "text_debt": "",
+      "text_promotion": "",
+      "debt": {
+        "6": 300000,
+        "12": 300000,
+        "24": 300000
+      },
+      "debts": [
+        {
+          "month": 6,
+          "money": 300000,
+          "text": "Trả lần đầu: 300,000 VNĐ - Các tháng còn lại: 117,000 VNĐ/6 tháng"
+        }
+      ]
+    },
+    {
+      "id": 2254,
+      "user_id": 2254,
+      "amount": 1000000,
+      "text_pay": "500k",
+      "can_booking": 1,
+      "is_hold": 0,
+      "hold_by_user_id": null,
+      "change_by_vga": null,
+      "time_hold": null,
+      "owned_by_user_id": null,
+      "amount_not_discount": null,
+      "amount_sale": 0,
+      "is_sale": 1,
+      "is_sale_emb_50k": 1,
+      "loai_ma": null,
+      "is_sale_NAB": 1,
+      "is_hide_number": 0,
+      "is_main": 0,
+      "is_default_number": 0,
+      "is_number_debt": 0,
+      "is_active_vphone": 1,
+      "can_payment": 1,
+      "refun": {
+        "vbank": "",
+        "point": "",
+        "bank": ""
+      },
+      "refun_debt": {
+        "vbank": "Hoàn tiền theo quy định mua trả góp",
+        "point": "",
+        "bank": ""
+      },
+      "allow_debt": 0,
+      "text_debt": "",
+      "text_promotion": "",
+      "debt": {
+        "6": 300000,
+        "12": 300000,
+        "24": 300000
+      },
+      "debts": [
+        {
+          "month": 6,
+          "money": 300000,
+          "text": "Trả lần đầu: 300,000 VNĐ - Các tháng còn lại: 117,000 VNĐ/6 tháng"
+        }
+      ]
+    },
+    {
+      "id": 2264,
+      "user_id": 2264,
+      "amount": 1000000,
+      "text_pay": "500k",
+      "can_booking": 1,
+      "is_hold": 0,
+      "hold_by_user_id": null,
+      "change_by_vga": null,
+      "time_hold": null,
+      "owned_by_user_id": null,
+      "amount_not_discount": null,
+      "amount_sale": 0,
+      "is_sale": 1,
+      "is_sale_emb_50k": 1,
+      "loai_ma": null,
+      "is_sale_NAB": 1,
+      "is_hide_number": 0,
+      "is_main": 0,
+      "is_default_number": 0,
+      "is_number_debt": 0,
+      "is_active_vphone": 1,
+      "can_payment": 1,
+      "refun": {
+        "vbank": "",
+        "point": "",
+        "bank": ""
+      },
+      "refun_debt": {
+        "vbank": "Hoàn tiền theo quy định mua trả góp",
+        "point": "",
+        "bank": ""
+      },
+      "allow_debt": 0,
+      "text_debt": "",
+      "text_promotion": "",
+      "debt": {
+        "6": 300000,
+        "12": 300000,
+        "24": 300000
+      },
+      "debts": [
+        {
+          "month": 6,
+          "money": 300000,
+          "text": "Trả lần đầu: 300,000 VNĐ - Các tháng còn lại: 117,000 VNĐ/6 tháng"
+        }
+      ]
+    },
+    {
+      "id": 2302,
+      "user_id": 2302,
+      "amount": 1000000,
+      "text_pay": "500k",
+      "can_booking": 1,
+      "is_hold": 1,
+      "hold_by_user_id": -1,
+      "change_by_vga": null,
+      "time_hold": "23:30:59,12-11-2022",
+      "owned_by_user_id": null,
+      "amount_not_discount": null,
+      "amount_sale": 0,
+      "is_sale": 1,
+      "is_sale_emb_50k": 1,
+      "loai_ma": null,
+      "is_sale_NAB": 1,
+      "is_hide_number": 0,
+      "is_main": 0,
+      "is_default_number": 0,
+      "is_number_debt": 0,
+      "is_active_vphone": 1,
+      "can_payment": 1,
+      "refun": {
+        "vbank": "",
+        "point": "",
+        "bank": ""
+      },
+      "refun_debt": {
+        "vbank": "Hoàn tiền theo quy định mua trả góp",
+        "point": "",
+        "bank": ""
+      },
+      "allow_debt": 0,
+      "text_debt": "",
+      "text_promotion": "",
+      "debt": {
+        "6": 300000,
+        "12": 300000,
+        "24": 300000
+      },
+      "debts": [
+        {
+          "month": 6,
+          "money": 300000,
+          "text": "Trả lần đầu: 300,000 VNĐ - Các tháng còn lại: 117,000 VNĐ/6 tháng"
+        }
+      ]
+    },
+    {
+      "id": 2314,
+      "user_id": 2314,
+      "amount": 1000000,
+      "text_pay": "500k",
+      "can_booking": 1,
+      "is_hold": 0,
+      "hold_by_user_id": null,
+      "change_by_vga": null,
+      "time_hold": null,
+      "owned_by_user_id": null,
+      "amount_not_discount": null,
+      "amount_sale": 0,
+      "is_sale": 1,
+      "is_sale_emb_50k": 1,
+      "loai_ma": null,
+      "is_sale_NAB": 1,
+      "is_hide_number": 0,
+      "is_main": 0,
+      "is_default_number": 0,
+      "is_number_debt": 0,
+      "is_active_vphone": 1,
+      "can_payment": 1,
+      "refun": {
+        "vbank": "",
+        "point": "",
+        "bank": ""
+      },
+      "refun_debt": {
+        "vbank": "Hoàn tiền theo quy định mua trả góp",
+        "point": "",
+        "bank": ""
+      },
+      "allow_debt": 0,
+      "text_debt": "",
+      "text_promotion": "",
+      "debt": {
+        "6": 300000,
+        "12": 300000,
+        "24": 300000
+      },
+      "debts": [
+        {
+          "month": 6,
+          "money": 300000,
+          "text": "Trả lần đầu: 300,000 VNĐ - Các tháng còn lại: 117,000 VNĐ/6 tháng"
+        }
+      ]
+    },
+    {
+      "id": 2317,
+      "user_id": 2317,
+      "amount": 1000000,
+      "text_pay": "500k",
+      "can_booking": 1,
+      "is_hold": 0,
+      "hold_by_user_id": null,
+      "change_by_vga": null,
+      "time_hold": null,
+      "owned_by_user_id": null,
+      "amount_not_discount": null,
+      "amount_sale": 0,
+      "is_sale": 1,
+      "is_sale_emb_50k": 1,
+      "loai_ma": null,
+      "is_sale_NAB": 1,
+      "is_hide_number": 0,
+      "is_main": 0,
+      "is_default_number": 0,
+      "is_number_debt": 0,
+      "is_active_vphone": 1,
+      "can_payment": 1,
+      "refun": {
+        "vbank": "",
+        "point": "",
+        "bank": ""
+      },
+      "refun_debt": {
+        "vbank": "Hoàn tiền theo quy định mua trả góp",
+        "point": "",
+        "bank": ""
+      },
+      "allow_debt": 0,
+      "text_debt": "",
+      "text_promotion": "",
+      "debt": {
+        "6": 300000,
+        "12": 300000,
+        "24": 300000
+      },
+      "debts": [
+        {
+          "month": 6,
+          "money": 300000,
+          "text": "Trả lần đầu: 300,000 VNĐ - Các tháng còn lại: 117,000 VNĐ/6 tháng"
+        }
+      ]
+    }
+  ],
+  "error_msg": null
+}
